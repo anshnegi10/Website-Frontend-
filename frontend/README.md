@@ -1,4 +1,4 @@
-# 🐞 Frontend Landing Page
+# 🐞 FrontendLanding Page
 
 A sleek, modern, and responsive landing page project built with **React**, **Tailwind CSS**, and **Framer Motion**, designed to promote your product or service. Developed as part of a summer project.
 
@@ -57,9 +57,8 @@ The page will reload automatically on file changes.
 
 To make this site accessible on other devices via your Wi-Fi/network, run:
 
-bash
-Copy
-Edit
+bash 
+
 npm start -- --host=0.0.0.0
 npm run build
 Builds the app for production to the build folder.
@@ -107,7 +106,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1. **Clone the repository**
 
-git clone https://github.com/anshnegi10/Website-Frontpage.git
+git clone https://github.com/anshnegi10/Website-Frontend-.git
 Running Frontend : https://fastidious-elf-4a9a11.netlify.app/
 
 
@@ -119,5 +118,6 @@ npx tailwindcss init -p
 
 👨‍💻 Author
 Made with ❤️ by Ansh Negi
-🔗 LinkedIn : https://www.linkedin.com/in/ansh-negi-921987299/
-Running Project : https://fastidious-elf-4a9a11.netlify.app/
+- 🚀 [Live Project](https://fastidious-elf-4a9a11.netlify.app/)
+- 🧠 [GitHub Repository](https://github.com/anshnegi10/Website-Frontpage.git)
+- 💼 [LinkedIn – Ansh Negi](https://www.linkedin.com/in/ansh-negi-921987299/)
