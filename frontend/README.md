@@ -1,4 +1,4 @@
-# 🐞 Bugeater Landing Page
+# 🐞 Frontend Landing Page
 
 A sleek, modern, and responsive landing page project built with **React**, **Tailwind CSS**, and **Framer Motion**, designed to promote your product or service. Developed as part of a summer project.
 
@@ -84,60 +84,40 @@ npm run eject
 | **tailwindcss**      | (via config) | Utility-first CSS framework (used via PostCSS config) |
 | **postcss**          | (via config) | CSS processor for Tailwind                            |
 | **autoprefixer**     | (via config) | Adds vendor prefixes to CSS automatically             |
+# 🚀 Bugeater Landing Page
 
-✅ Commands to Install These Libraries (if not already)
-If you're setting up from scratch:
+A responsive, animated, and modern **React** landing page built using **Tailwind CSS**, **Framer Motion**, and other useful libraries.
+
+---
+
+## 📦 Tech Stack Used
+
+- ⚛️ **React JS** – UI library
+- 💨 **Tailwind CSS** – Styling framework
+- 🎬 **Framer Motion** – Animations
+- 🔗 **React Router DOM** – Routing
+- 🎨 **React Icons** – Icon library
+- 🌐 **Axios** – HTTP requests
+
+---
+
+## 🛠️ Installation Guide
+
+Make sure you have [Node.js](https://nodejs.org/) installed.
+
+1. **Clone the repository**
+
+git clone https://github.com/anshnegi10/Website-Frontpage.git
+Running Frontend : https://fastidious-elf-4a9a11.netlify.app/
+
+
+Install required libraries manually if needed:
 
 npm install react react-dom react-router-dom react-icons axios framer-motion
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-
-🌍 Expose Locally Running App to Internet
-To make your localhost app publicly available via a secure URL:
-
-Install ngrok (if not already):
-
-bash
-Copy
-Edit
-npm install -g ngrok
-Authenticate:
-
-bash
-Copy
-Edit
-ngrok config add-authto ken <your-authtoken>
-Start ngrok on port 3000:
-
-bash
-Copy
-Edit
-ngrok http 3000
-🛠️ Built With
-React
-
-Tailwind CSS
-
-Framer Motion
-
-React Router DOM
-
-React Icons
-
-📸 Screenshots
-Add screenshots here if available
-Example:
-
-🧠 Learn More
-React Documentation
-
-Tailwind Documentation
-
-Framer Motion Docs
-
-Deployment Guide
-
 👨‍💻 Author
 Made with ❤️ by Ansh Negi
-🔗 LinkedIn (if applicable)
+🔗 LinkedIn : https://www.linkedin.com/in/ansh-negi-921987299/
+Running Project : https://fastidious-elf-4a9a11.netlify.app/
